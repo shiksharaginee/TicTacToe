@@ -37,5 +37,8 @@ git clone https://github.com/shiksharaginee/TicTacToe
 ### Game with AI mode
 ![image](https://github.com/user-attachments/assets/3dec15ca-19dc-4171-b8e1-fdab195a3af9)
 
+ ##APK Download Link
+ [Here](https://github.com/shiksharaginee/tictactoe/releases/download/v1.0/app-debug.apk)
+
 ## Support
 For support mail shiksharaginee@gmail.com
