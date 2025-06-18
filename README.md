@@ -32,5 +32,10 @@ The Hard difficulty uses the Minimax algorithm to evaluate all possible future g
 ```bash
 git clone https://github.com/shiksharaginee/TicTacToe
 ```
+## Screenshots
+![Screenshot 2025-06-18 131433](https://github.com/user-attachments/assets/392fe014-c360-49a2-a7b3-36fd74717ac3)
+### Game with AI mode
+![image](https://github.com/user-attachments/assets/3dec15ca-19dc-4171-b8e1-fdab195a3af9)
+
 ## Support
 For support mail shiksharaginee@gmail.com
