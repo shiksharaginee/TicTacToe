@@ -36,7 +36,7 @@ git clone https://github.com/shiksharaginee/TicTacToe
 ![Screenshot 2025-06-18 131433](https://github.com/user-attachments/assets/392fe014-c360-49a2-a7b3-36fd74717ac3)
 
 
-Game with AI mode
+### Game with AI mode
 ![image](https://github.com/user-attachments/assets/3dec15ca-19dc-4171-b8e1-fdab195a3af9)
 
 ## APK Download Link
